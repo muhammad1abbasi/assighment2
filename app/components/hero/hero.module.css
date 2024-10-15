@@ -1,0 +1,39 @@
+.hero-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0 auto; 
+  }
+  
+  .hero {
+    font-size: 2.5rem;
+    margin-bottom: 20px; 
+    text-align: center;
+    margin-top: 119px;
+    font-family: system-ui;
+    color: darkgray;
+  }
+  
+  .text {
+    font-size: 1.2rem;
+    margin-bottom: 15px; 
+    text-align: center;
+    font-size: 32px;
+    margin-top: -13px;
+    font-family: sans-serif;
+    color: #908b8b;;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #a09a9a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 200px;
+    margin-left: 46%;
+}
+  

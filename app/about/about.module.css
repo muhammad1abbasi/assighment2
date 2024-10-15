@@ -1,0 +1,15 @@
+.abheading {
+    display: flex;
+    margin-left: 32%;
+    font-family: system-ui;
+    margin-top: 11%;
+    color: darkgray
+}
+
+.abpera {
+    margin: 76px;
+    margin-top: -1px;
+    font-family: cursive;
+    color: #908b8b;
+    
+}

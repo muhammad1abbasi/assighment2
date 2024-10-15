@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    margin: -8px;
+    padding: 33px;
+    background-color: #65696a;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    transition: background-color 0.3s ease;
+    border-radius: 33px;
+}
